@@ -34,29 +34,29 @@ let questions = [
   },
   // ... Questions up to numb 26
   {
-    numb: 27,
+    numb: 4,
     question: "What does CDN stand for?",
     answer: "Content Delivery Network",
     options: [
-      "Content Delivery Network",
-      "Content Distribution Network",
       "Content Data Network",
+      "Content Distribution Network",
+      "Content Delivery Network",
       "Central Delivery Network"
     ]
   },
   {
-    numb: 28,
+    numb: 5,
     question: "What does DNS stand for?",
     answer: "Domain Name System",
     options: [
-      "Domain Name System",
+      "Domain Network System",
       "Data Network System",
       "Domain Name Service",
-      "Domain Network System"
+      "Domain Name System"
     ]
   },
   {
-    numb: 29,
+    numb: 6,
     question: "What does BEM stand for in CSS?",
     answer: "Block Element Modifier",
     options: [
@@ -67,29 +67,29 @@ let questions = [
     ]
   },
   {
-    numb: 30,
+    numb: 7,
     question: "What does SVG stand for?",
     answer: "Scalable Vector Graphics",
     options: [
-      "Scalable Vector Graphics",
       "Standard Vector Graphics",
+      "Scalable Vector Graphics",
       "Simple Vector Graphics",
       "Sequential Vector Graphics"
     ]
   },
   {
-    numb: 31,
+    numb: 8,
     question: "What does WYSIWYG stand for?",
     answer: "What You See Is What You Get",
     options: [
-      "What You See Is What You Get",
+      "What You See Is What You Gain",
       "Where You See Is Where You Go",
       "What You Style Is What You Get",
-      "What You See Is What You Gain"
+      "What You See Is What You Get"
     ]
   },
   {
-    numb: 32,
+    numb: 9,
     question: "What does CLI stand for?",
     answer: "Command Line Interface",
     options: [
