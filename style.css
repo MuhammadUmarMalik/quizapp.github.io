@@ -381,3 +381,106 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
+
+/* Base styles are already defined. Add responsiveness below */
+
+/* For smaller screens like mobile (max-width: 600px) */
+@media screen and (max-width: 600px) {
+    .info_box, .quiz_box, .result_box {
+        width: 95%; /* Reduce width to fit smaller screens */
+    }
+
+    .info_box .info-title, 
+    .quiz_box header, 
+    .result_box .complete_text {
+        font-size: 16px; /* Adjust font size for smaller screens */
+    }
+
+    .info_box .info-list .info,
+    .result_box .score_text span {
+        font-size: 14px;
+    }
+
+    .info_box .buttons button,
+    .quiz_box header .timer_sec, 
+    footer button,
+    .result_box .buttons button {
+        width: 100%; /* Full-width buttons */
+        height: 40px; /* Reduce height for smaller screens */
+        padding: 10px 0;
+    }
+
+    section .que_text {
+        font-size: 20px;
+    }
+
+    section .option_list .option {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    section .option_list .option .icon {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+    }
+
+    .result_box {
+        width: 90%; /* Reduce result box size */
+    }
+}
+
+/* For tablets (min-width: 600px and max-width: 900px) */
+@media screen and (min-width: 600px) and (max-width: 900px) {
+    .info_box, .quiz_box, .result_box {
+        width: 80%;
+    }
+
+    .info_box .info-title, 
+    .quiz_box header, 
+    .result_box .complete_text {
+        font-size: 18px;
+    }
+
+    .info_box .info-list .info,
+    .result_box .score_text span {
+        font-size: 16px;
+    }
+
+    section .que_text {
+        font-size: 22px;
+    }
+
+    section .option_list .option {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+
+    section .option_list .option .icon {
+        height: 24px;
+        width: 24px;
+        font-size: 12px;
+    }
+}
+
+/* Larger screens or desktops */
+@media screen and (min-width: 900px) {
+    .info_box, .quiz_box, .result_box {
+        width: 550px; /* Keep default width for larger screens */
+    }
+
+    .info_box .info-title, 
+    .quiz_box header, 
+    .result_box .complete_text {
+        font-size: 20px;
+    }
+
+    section .que_text {
+        font-size: 25px;
+    }
+
+    section .option_list .option {
+        font-size: 17px;
+        padding: 8px 15px;
+    }
+}
