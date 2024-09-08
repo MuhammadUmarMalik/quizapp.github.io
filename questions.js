@@ -100,51 +100,51 @@ let questions = [
     ]
   },
   {
-    numb: 33,
+    numb: 10,
     question: "What does UX stand for?",
     answer: "User Experience",
     options: [
-      "User Experience",
       "Universal Experience",
+      "User Experience",
       "User Extension",
       "User Execution"
     ]
   },
   {
-    numb: 34,
+    numb: 11,
     question: "What does UI stand for?",
     answer: "User Interface",
     options: [
-      "User Interface",
-      "Universal Interface",
       "Unified Interface",
+      "Universal Interface",
+      "User Interface",
       "User Interaction"
     ]
   },
   {
-    numb: 35,
+    numb: 12,
     question: "What does JSON stand for?",
     answer: "JavaScript Object Notation",
     options: [
-      "JavaScript Object Notation",
       "Java Syntax Object Notation",
+      "JavaScript Object Notation",
       "Java Serialization Object",
       "JavaScript Over Network"
     ]
   },
   {
-    numb: 36,
+    numb: 13,
     question: "What does MVC stand for?",
     answer: "Model View Controller",
     options: [
-      "Model View Controller",
-      "Module View Controller",
       "Model Visual Controller",
+      "Module View Controller",
+      "Model View Controller",
       "Main View Controller"
     ]
   },
   {
-    numb: 37,
+    numb: 14,
     question: "What does SSR stand for?",
     answer: "Server Side Rendering",
     options: [
@@ -155,18 +155,18 @@ let questions = [
     ]
   },
   {
-    numb: 38,
+    numb: 15,
     question: "What does CSR stand for?",
     answer: "Client Side Rendering",
     options: [
-      "Client Side Rendering",
+      "Custom Source Rendering",
       "Content Side Rendering",
       "Command Side Rendering",
-      "Custom Source Rendering"
+      "Client Side Rendering"
     ]
   },
   {
-    numb: 39,
+    numb: 16,
     question: "What does REST stand for?",
     answer: "Representational State Transfer",
     options: [
@@ -177,18 +177,18 @@ let questions = [
     ]
   },
   {
-    numb: 40,
+    numb: 17,
     question: "What does SOAP stand for?",
     answer: "Simple Object Access Protocol",
     options: [
-      "Simple Object Access Protocol",
-      "Structured Object Access Protocol",
       "Simple Operational Access Protocol",
+      "Structured Object Access Protocol",
+      "Simple Object Access Protocol",
       "Standard Object Access Protocol"
     ]
   },
   {
-    numb: 41,
+    numb: 18,
     question: "What does JWT stand for?",
     answer: "JSON Web Token",
     options: [
@@ -199,7 +199,7 @@ let questions = [
     ]
   },
   {
-    numb: 42,
+    numb: 19,
     question: "What does CRUD stand for?",
     answer: "Create, Read, Update, Delete",
     options: [
@@ -210,29 +210,29 @@ let questions = [
     ]
   },
   {
-    numb: 43,
+    numb: 21,
     question: "What does GUI stand for?",
     answer: "Graphical User Interface",
     options: [
-      "Graphical User Interface",
+      "Graphical Usage Interface",
       "Graphical Unit Interface",
       "General User Interface",
-      "Graphical Usage Interface"
+      "Graphical User Interface"
     ]
   },
   {
-    numb: 44,
+    numb: 22,
     question: "What does API stand for?",
     answer: "Application Programming Interface",
     options: [
-      "Application Programming Interface",
-      "Application Protocol Interface",
       "Application Process Interface",
+      "Application Protocol Interface",
+      "Application Programming Interface",
       "Application Parameter Interface"
     ]
   },
   {
-    numb: 45,
+    numb: 23,
     question: "What does OOP stand for?",
     answer: "Object Oriented Programming",
     options: [
@@ -243,29 +243,29 @@ let questions = [
     ]
   },
   {
-    numb: 46,
+    numb: 24,
     question: "What does SASS stand for?",
     answer: "Syntactically Awesome Style Sheets",
     options: [
-      "Syntactically Awesome Style Sheets",
+      "Standard And Smooth Style",
       "Simple And Standard Style",
       "Structured And Simple Style",
-      "Standard And Smooth Style"
+      "Syntactically Awesome Style Sheets"
     ]
   },
   {
-    numb: 47,
+    numb: 25,
     question: "What does LESS stand for?",
     answer: "Leaner Style Sheets",
     options: [
-      "Leaner Style Sheets",
+      "Low Energy Style Sheets",
       "Less Simple Style",
       "Less Syntax Style",
-      "Low Energy Style Sheets"
+      "Leaner Style Sheets"
     ]
   },
   {
-    numb: 48,
+    numb: 26,
     question: "What does VPN stand for?",
     answer: "Virtual Private Network",
     options: [
@@ -276,18 +276,18 @@ let questions = [
     ]
   },
   {
-    numb: 49,
+    numb: 27,
     question: "What does IoT stand for?",
     answer: "Internet of Things",
     options: [
-      "Internet of Things",
+      "Information of Things",
       "Internet of Technology",
       "Interface of Things",
-      "Information of Things"
+      "Internet of Things"
     ]
   },
   {
-    numb: 50,
+    numb: 28,
     question: "What does DNS stand for?",
     answer: "Domain Name System",
     options: [
@@ -298,18 +298,18 @@ let questions = [
     ]
   },
   {
-    numb: 51,
+    numb: 29,
     question: "What does HTTPS stand for?",
     answer: "Hypertext Transfer Protocol Secure",
     options: [
-      "Hypertext Transfer Protocol Secure",
-      "Hypertext Transfer Protocol Service",
       "Hyperlink Transfer Protocol",
+      "Hypertext Transfer Protocol Service",
+      "Hypertext Transfer Protocol secure",
       "Hypertext Transformation Protocol Secure"
     ]
   },
   {
-    numb: 52,
+    numb: 30,
     question: "What does RSS stand for?",
     answer: "Really Simple Syndication",
     options: [
@@ -320,7 +320,7 @@ let questions = [
     ]
   },
   {
-    numb: 53,
+    numb: 31,
     question: "What does IP stand for?",
     answer: "Internet Protocol",
     options: [
@@ -331,18 +331,18 @@ let questions = [
     ]
   },
   {
-    numb: 54,
+    numb: 32,
     question: "What does RAM stand for?",
     answer: "Random Access Memory",
     options: [
-      "Random Access Memory",
       "Read Access Memory",
+      "Random Access Memory",
       "Remote Access Memory",
       "Read Only Memory"
     ]
   },
   {
-    numb: 55,
+    numb: 33,
     question: "What does GPU stand for?",
     answer: "Graphics Processing Unit",
     options: [
@@ -353,7 +353,7 @@ let questions = [
     ]
   },
   {
-    numb: 56,
+    numb: 34,
     question: "What does HTTP stand for?",
     answer: "Hypertext Transfer Protocol",
     options: [
@@ -364,7 +364,7 @@ let questions = [
     ]
   },
   {
-    numb: 57,
+    numb: 35,
     question: "What does CDN stand for?",
     answer: "Content Delivery Network",
     options: [
