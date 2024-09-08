@@ -375,18 +375,18 @@ let questions = [
     ]
   },
   {
-    numb: 58,
+    numb: 36,
     question: "What does DNS stand for?",
     answer: "Domain Name System",
     options: [
-      "Domain Name System",
       "Data Name System",
+      "Domain Name System",
       "Domain Network Service",
       "Domain Name Service"
     ]
   },
   {
-    numb: 59,
+    numb: 37,
     question: "What does FTP stand for?",
     answer: "File Transfer Protocol",
     options: [
@@ -397,7 +397,7 @@ let questions = [
     ]
   },
   {
-    numb: 60,
+    numb: 38,
     question: "What does SaaS stand for?",
     answer: "Software as a Service",
     options: [
@@ -408,444 +408,26 @@ let questions = [
     ]
   },
   {
-    numb: 61,
+    numb: 39,
     question: "What does PWA stand for?",
     answer: "Progressive Web App",
     options: [
-      "Progressive Web App",
+      "Progressive Website Application",
       "Powerful Web App",
       "Private Web App",
-      "Progressive Website Application"
+      "Progressive Web App"
     ]
   },
   {
-    numb: 62,
+    numb: 40,
     question: "What does SQL stand for?",
     answer: "Structured Query Language",
     options: [
-      "Structured Query Language",
       "Standard Query Language",
+      "Structured Query Language",
       "System Query Language",
       "Sequential Query Language"
     ]
   },
-  {
-    numb: 63,
-    question: "What does IP stand for?",
-    answer: "Internet Protocol",
-    options: [
-      "Internet Protocol",
-      "Internal Program",
-      "Internet Program",
-      "Internal Protocol"
-    ]
-  },
-  {
-    numb: 64,
-    question: "What does CDN stand for?",
-    answer: "Content Delivery Network",
-    options: [
-      "Content Delivery Network",
-      "Content Data Network",
-      "Central Delivery Network",
-      "Content Distribution Network"
-    ]
-  },
-  {
-    numb: 65,
-    question: "What does SEO stand for?",
-    answer: "Search Engine Optimization",
-    options: [
-      "Search Engine Optimization",
-      "Search Execution Optimization",
-      "System Engine Optimization",
-      "Search Enhancement Option"
-    ]
-  },
-  {
-    numb: 66,
-    question: "What does SSH stand for?",
-    answer: "Secure Shell",
-    options: [
-      "Secure Shell",
-      "Safe Secure Host",
-      "System Secure Host",
-      "Secure System Host"
-    ]
-  },
-  {
-    numb: 67,
-    question: "What does JSON stand for?",
-    answer: "JavaScript Object Notation",
-    options: [
-      "JavaScript Object Notation",
-      "Java System Object Notation",
-      "JavaScript Online Notation",
-      "Java Source Object Notation"
-    ]
-  },
-  {
-    numb: 68,
-    question: "What does AI stand for?",
-    answer: "Artificial Intelligence",
-    options: [
-      "Artificial Intelligence",
-      "Automated Intelligence",
-      "Autonomous Intelligence",
-      "Advanced Intelligence"
-    ]
-  },
-  {
-    numb: 69,
-    question: "What does URL stand for?",
-    answer: "Uniform Resource Locator",
-    options: [
-      "Uniform Resource Locator",
-      "Universal Resource Locator",
-      "Uniform Retrieval Locator",
-      "Universal Retrieval Locator"
-    ]
-  },
-  {
-    numb: 70,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
-    options: [
-      "Hyper Text Markup Language",
-      "Hyperlink Text Markup Language",
-      "Hyper Text Management Language",
-      "Hyper Transfer Markup Language"
-    ]
-  },
-  {
-    numb: 71,
-    question: "What does API stand for?",
-    answer: "Application Programming Interface",
-    options: [
-      "Application Programming Interface",
-      "Application Program Integration",
-      "Application Platform Integration",
-      "Application Processing Interface"
-    ]
-  },
-  {
-    numb: 72,
-    question: "What does RAM stand for?",
-    answer: "Random Access Memory",
-    options: [
-      "Random Access Memory",
-      "Read Access Memory",
-      "Rapid Access Memory",
-      "Remote Access Memory"
-    ]
-  },
-  {
-    numb: 73,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
-    options: [
-      "Structured Query Language",
-      "System Query Language",
-      "Sequential Query Language",
-      "Standard Query Language"
-    ]
-  },
-  {
-    numb: 74,
-    question: "What does CPU stand for?",
-    answer: "Central Processing Unit",
-    options: [
-      "Central Processing Unit",
-      "Core Processing Unit",
-      "Control Processing Unit",
-      "Computer Processing Unit"
-    ]
-  },
-  {
-    numb: 75,
-    question: "What does DNS stand for?",
-    answer: "Domain Name System",
-    options: [
-      "Domain Name System",
-      "Data Name System",
-      "Domain Network Service",
-      "Data Network System"
-    ]
-  },
-  {
-    numb: 76,
-    question: "What does UX stand for?",
-    answer: "User Experience",
-    options: [
-      "User Experience",
-      "User Extension",
-      "Universal Experience",
-      "User Execution"
-    ]
-  },
-  {
-    numb: 77,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheets",
-    options: [
-      "Cascading Style Sheets",
-      "Cascading Simple Sheets",
-      "Central Style Sheets",
-      "Computer Style Sheets"
-    ]
-  },
-  {
-    numb: 78,
-    question: "What does HTTP stand for?",
-    answer: "Hypertext Transfer Protocol",
-    options: [
-      "Hypertext Transfer Protocol",
-      "Hypertext Transfer Program",
-      "Hyper Transfer Text Protocol",
-      "Hyper Transfer Tool Protocol"
-    ]
-  },
-  {
-    numb: 79,
-    question: "What does XML stand for?",
-    answer: "Extensible Markup Language",
-    options: [
-      "Extensible Markup Language",
-      "Executable Markup Language",
-      "Extra Markup Language",
-      "Exchange Markup Language"
-    ]
-  },
-  {
-    numb: 80,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
-    options: [
-      "Structured Query Language",
-      "Sequential Query Language",
-      "System Query Language",
-      "Standard Query Language"
-    ]
-  },
-  {
-    numb: 81,
-    question: "What does CMS stand for?",
-    answer: "Content Management System",
-    options: [
-      "Content Management System",
-      "Content Management Software",
-      "Central Management System",
-      "Content Monitoring System"
-    ]
-  },
-  {
-    numb: 82,
-    question: "What does DNS stand for?",
-    answer: "Domain Name System",
-    options: [
-      "Domain Name System",
-      "Data Network System",
-      "Domain Network Service",
-      "Domain Name Service"
-    ]
-  },
-  {
-    numb: 83,
-    question: "What does SaaS stand for?",
-    answer: "Software as a Service",
-    options: [
-      "Software as a Service",
-      "Storage as a Service",
-      "Software and System",
-      "Storage and System"
-    ]
-  },
-  {
-    numb: 84,
-    question: "What does KPI stand for?",
-    answer: "Key Performance Indicator",
-    options: [
-      "Key Performance Indicator",
-      "Key Processing Indicator",
-      "Key Protocol Indicator",
-      "Key Programming Indicator"
-    ]
-  },
-  {
-    numb: 85,
-    question: "What does JSON stand for?",
-    answer: "JavaScript Object Notation",
-    options: [
-      "JavaScript Object Notation",
-      "Java Simple Object Notation",
-      "Java Source Object Notation",
-      "Java Syntax Object Notation"
-    ]
-  },
-  {
-    numb: 86,
-    question: "What does DNS stand for?",
-    answer: "Domain Name System",
-    options: [
-      "Domain Name System",
-      "Data Network System",
-      "Domain Network System",
-      "Domain Name Service"
-    ]
-  },
-  {
-    numb: 87,
-    question: "What does VPN stand for?",
-    answer: "Virtual Private Network",
-    options: [
-      "Virtual Private Network",
-      "Virtual Public Network",
-      "Virtual Processing Network",
-      "Virtual Protocol Network"
-    ]
-  },
-  {
-    numb: 88,
-    question: "What does TCP stand for?",
-    answer: "Transmission Control Protocol",
-    options: [
-      "Transmission Control Protocol",
-      "Transmission Central Protocol",
-      "Transfer Control Protocol",
-      "Total Control Protocol"
-    ]
-  },
-  {
-    numb: 89,
-    question: "What does IP stand for?",
-    answer: "Internet Protocol",
-    options: [
-      "Internet Protocol",
-      "Internal Protocol",
-      "Internal Program",
-      "Internet Processing"
-    ]
-  },
-  {
-    numb: 90,
-    question: "What does SSH stand for?",
-    answer: "Secure Shell",
-    options: [
-      "Secure Shell",
-      "Safe Secure Host",
-      "System Secure Host",
-      "Secure System Host"
-    ]
-  },
-  {
-    numb: 91,
-    question: "What does API stand for?",
-    answer: "Application Programming Interface",
-    options: [
-      "Application Programming Interface",
-      "Application Program Interface",
-      "Application Processing Interface",
-      "Application Platform Interface"
-    ]
-  },
-  {
-    numb: 92,
-    question: "What does CPU stand for?",
-    answer: "Central Processing Unit",
-    options: [
-      "Central Processing Unit",
-      "Control Processing Unit",
-      "Core Processing Unit",
-      "Computer Processing Unit"
-    ]
-  },
-  {
-    numb: 93,
-    question: "What does IoT stand for?",
-    answer: "Internet of Things",
-    options: [
-      "Internet of Things",
-      "Internet of Technology",
-      "Internal of Things",
-      "Internal of Technology"
-    ]
-  },
-  {
-    numb: 94,
-    question: "What does VPN stand for?",
-    answer: "Virtual Private Network",
-    options: [
-      "Virtual Private Network",
-      "Virtual Public Network",
-      "Virtual Processing Network",
-      "Virtual Protocol Network"
-    ]
-  },
-  {
-    numb: 95,
-    question: "What does SEO stand for?",
-    answer: "Search Engine Optimization",
-    options: [
-      "Search Engine Optimization",
-      "System Engine Optimization",
-      "Search Execution Optimization",
-      "Search Enhancement Option"
-    ]
-  },
-  {
-    numb: 96,
-    question: "What does UI stand for?",
-    answer: "User Interface",
-    options: [
-      "User Interface",
-      "Universal Interface",
-      "User Integration",
-      "User Interaction"
-    ]
-  },
-  {
-    numb: 97,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheets",
-    options: [
-      "Cascading Style Sheets",
-      "Computer Style Sheets",
-      "Cascading System Sheets",
-      "Central Style Sheets"
-    ]
-  },
-  {
-    numb: 98,
-    question: "What does RAM stand for?",
-    answer: "Random Access Memory",
-    options: [
-      "Random Access Memory",
-      "Read Access Memory",
-      "Rapid Access Memory",
-      "Remote Access Memory"
-    ]
-  },
-  {
-    numb: 99,
-    question: "What does HTML stand for?",
-    answer: "Hypertext Markup Language",
-    options: [
-      "Hypertext Markup Language",
-      "Hypertext Makeup Language",
-      "Hyperlink Text Markup Language",
-      "Hyper Transfer Markup Language"
-    ]
-  },
-  {
-    numb: 100,
-    question: "What does SSH stand for?",
-    answer: "Secure Shell",
-    options: [
-      "Secure Shell",
-      "Safe Secure Host",
-      "System Secure Host",
-      "Secure System Host"
-    ]
-  }
-
+ 
 ];
